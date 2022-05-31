@@ -4,9 +4,9 @@ title: Enhanced Prediction of Three-Dimensional Finite Iced Wing Separated Flow
 publication_types:
   - "0"
 authors:
-  - Maochao Xiao
-  - Yufei Zhang
-  - Feng Zhou
+  - Xiao M.
+  - Zhang Y.
+  - Zhou F.
 doi: ""
 publication_short: "*International Journal of Heat and Fluid Flow (under review)*"
 abstract: Icing on three-dimensional wings causes severe flow separation near
