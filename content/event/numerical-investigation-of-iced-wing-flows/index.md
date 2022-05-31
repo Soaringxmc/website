@@ -6,7 +6,7 @@ date: 2022-04-29T01:00:00.000Z
 date_end: 2022-04-29T02:00:54.961Z
 all_day: true
 event: Group Meeting
-event_url: https://art-of-turbulence.netlify.app/talk/numerical-investigation-of-iced-wing-flows/
+event_url: "~"
 publishDate: 2022-05-31T10:23:13.537Z
 draft: false
 featured: false
