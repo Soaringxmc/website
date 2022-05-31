@@ -9,9 +9,9 @@ authors:
   - Feng Zhou
 publication_short: "*International Journal of Heat and Fluid Flow (under review)*"
 draft: false
-featured: false
+featured: true
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2022-05-31T02:15:48.526Z
