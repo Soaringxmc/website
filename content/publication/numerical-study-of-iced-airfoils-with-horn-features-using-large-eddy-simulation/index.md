@@ -12,7 +12,7 @@ featured: false
 projects:
   - les-simulation
 image:
-  filename: featured.png
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2019-09-01T01:55:00.000Z
