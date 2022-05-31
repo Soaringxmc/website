@@ -35,6 +35,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Maochao Xiao is a master student of aerospace science and technology at the Tsinghua AEROLab. His research interests include turbulence modelling and simulation, wall turbulence, separated turbulence. 
+Maochao Xiao is a master student of aerospace science and technology at the AEROLab, Tsinghua University. His research interests include turbulence modelling and simulation, wall turbulence, separated turbulence. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
