@@ -4,7 +4,7 @@ date: 2021-10-01T07:17:13.023Z
 draft: false
 featured: false
 tags:
-  - IDDES
+  - Hybrid RANS-LES Modelling
 image:
   filename: featured
   focal_point: Smart
