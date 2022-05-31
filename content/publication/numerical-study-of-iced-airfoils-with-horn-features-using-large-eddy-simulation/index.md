@@ -6,6 +6,7 @@ authors:
   - Maochao Xiao
   - Yufei Zhang
   - Feng Zhou
+publication_short: Journal of Aircraft
 draft: false
 featured: false
 image:
