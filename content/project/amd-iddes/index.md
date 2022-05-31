@@ -4,7 +4,7 @@ date: 2022-05-31T13:14:39.487Z
 draft: false
 featured: false
 tags:
-  - RANS-LES Modelling
+  - Numerical Modelling
 image:
   filename: featured
   focal_point: Smart
