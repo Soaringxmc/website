@@ -2,7 +2,7 @@
 title: Numerical Study of an Iced Airfoil Based on Delayed Detached-Eddy
   Simulation with Low Dissipation Scheme
 publication_types:
-  - "1"
+  - "0"
 authors:
   - Maochao Xiao
   - Yufei Zhang
