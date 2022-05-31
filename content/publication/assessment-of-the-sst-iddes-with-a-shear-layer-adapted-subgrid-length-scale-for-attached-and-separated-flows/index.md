@@ -9,6 +9,8 @@ authors:
 publication_short: "*International Journal of Heat and Fluid Flow*"
 draft: false
 featured: false
+projects:
+  - sla-iddes
 image:
   filename: featured
   focal_point: Smart
