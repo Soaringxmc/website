@@ -10,6 +10,8 @@ authors:
 publication_short: "*International Journal of Heat and Fluid Flow (under review)*"
 draft: false
 featured: true
+projects:
+  - iddes-simulation
 image:
   filename: featured.png
   focal_point: Smart
