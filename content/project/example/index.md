@@ -6,7 +6,7 @@ url_video: ""
 date: 2016-04-27T00:00:00Z
 external_link: ""
 url_slides: ""
-title: Numerical Study of Iced Airfoil Flows
+title: Large-Eddy Simulation of Iced Wing Flows
 tags:
   - Deep Learning
 links:
