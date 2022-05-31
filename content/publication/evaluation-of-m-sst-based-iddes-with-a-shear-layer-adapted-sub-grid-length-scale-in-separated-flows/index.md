@@ -1,6 +1,5 @@
 ---
-title: Evaluation of M-SST Based IDDES with a Shear-Layer-Adapted Sub-Grid
-  Length Scale in Separated Flows
+title: Application of Shear Layer Adapted Sub-grid Length Scale in SST-IDDES
 publication_types:
   - "1"
 authors:
