@@ -1,5 +1,5 @@
 ---
-title: sla-iddes
+title: Development of SST-IDDES with a Shear-Layer-Adapted Subgrid Length Scale
 date: 2022-05-31T13:13:23.180Z
 draft: false
 featured: false
