@@ -4,9 +4,9 @@ role: Master Student
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - CFD
+  - Turbulence Modelling
+  - High-Fidelity Turbulence Simulation
 social:
   - icon: envelope
     icon_pack: fas
@@ -41,8 +41,11 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Maochao Xiao is a master student of aerospace science and technology at the Tsinghua AEROLab. His research interests include turbulence modelling and simulation, wall turbulence, separated turbulence. 
+
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
