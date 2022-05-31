@@ -1,12 +1,9 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
-  urna, suscipit quis sapien eu, pulvinar tempor diam.
+abstract: summary
 slides: example
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
-title: Example Talk
+title: Numerical Investigation of Iced Wing Flows
 location: Wowchemy HQ
 date: 2030-06-01T13:00:00.000Z
 date_end: 2030-06-01T15:00:00.000Z
