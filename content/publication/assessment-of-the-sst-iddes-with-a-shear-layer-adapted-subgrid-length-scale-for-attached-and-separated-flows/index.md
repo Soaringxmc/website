@@ -4,7 +4,7 @@ title: Assessment of the SST-IDDES with a Shear-Layer-Adapted Subgrid Length
 publication_types:
   - "2"
 authors:
-  - admin
+  - Maochao Xiao
   - Yufei Zhang
 draft: false
 featured: false
