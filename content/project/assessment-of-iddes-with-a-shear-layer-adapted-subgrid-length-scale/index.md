@@ -4,7 +4,7 @@ date: 2017-01-01T07:20:23.626Z
 draft: false
 featured: false
 tags:
-  - Turbulence Modelling
+  - Hybrid RANS-LES Modelling
 image:
   filename: featured
   focal_point: Smart
