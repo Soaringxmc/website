@@ -1,6 +1,6 @@
 ---
 title: Numerical Investigation of Iced Wing Flows
-abstract: Regular presentation
+abstract: A presentation on "numerical investigation of iced wing flows".
 location: AEROlab, Tsinghua University
 date: 2022-04-29T01:00:00.000Z
 date_end: 2022-04-29T02:00:54.961Z
