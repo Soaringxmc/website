@@ -24,7 +24,7 @@ content:
     street: Tsinghua University
     city: Beijing
     #region: Haidian
-    postcode: "10084"
+    postcode: "100084"
     country: China
     country_code: CHN
   contact_links:
