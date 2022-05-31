@@ -10,6 +10,8 @@ publication: ""
 publication_short: "*AIAA Journal*"
 draft: false
 featured: false
+projects:
+  - les-simulation
 image:
   filename: featured
   focal_point: Smart
