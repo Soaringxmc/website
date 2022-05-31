@@ -10,7 +10,7 @@ publication_short: "*Journal of Aircraft*"
 draft: false
 featured: false
 projects:
-  - large-eddy-simulation-of-iced-wing-flows
+  - les-simulation
 image:
   filename: featured.png
   focal_point: Smart
