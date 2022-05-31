@@ -8,7 +8,7 @@ external_link: ""
 url_slides: ""
 title: Large-Eddy Simulation of Iced Wing Flows
 tags:
-  - Iced Wing Aeronamics
+  - Iced Wing Aerodynamics
 links:
   - icon: twitter
     icon_pack: fab
