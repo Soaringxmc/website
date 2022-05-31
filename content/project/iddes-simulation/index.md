@@ -1,5 +1,5 @@
 ---
-title: iddes-simulation
+title: IDDES Simulation of Iced Wing Flows
 date: 2022-05-31T13:12:19.809Z
 summary: High-fidelity simulations are conducted to accrurately predict the
   aerodynamics around iced wings and to reveal the dominant flow mechnisms in
