@@ -11,7 +11,7 @@ publishDate: 2022-05-31T10:23:13.537Z
 draft: false
 featured: false
 projects:
-  - Large-Eddy-Simulation-of-Iced-Wing-Flows
+  - large-eddy-simulation-of-iced-wing-flows
 image:
   filename: featured
   focal_point: Smart
