@@ -11,12 +11,12 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: RANS-LES Modelling
-      tag: RANS-LES Modelling
-    - name: Iced Wing Aerodynamics
-      tag: Iced Wing Aerodynamics
-    - name: Other
-      tag: Demo
+    - name: Numerical Modelling
+      tag: Numerical Modelling
+    - name: Numerical Simulation
+      tag: Numerical Simulation
+    - name: AI
+      tag: AI
 design:
   columns: "2"
   view: 2
