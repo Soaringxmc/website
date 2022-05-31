@@ -12,7 +12,7 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - admin
+  - Maochao Xiao
   - Yufei Zhang
 author_notes: []
 publication: ""
