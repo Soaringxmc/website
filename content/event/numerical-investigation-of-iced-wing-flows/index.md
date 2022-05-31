@@ -2,8 +2,8 @@
 title: Numerical Investigation of Iced Wing Flows
 abstract: Regular presentation
 location: AEROlab, Tsinghua University
-date: 2022-04-28T16:00:00.000Z
-date_end: 2022-04-29T15:08:54.961Z
+date: 2022-04-29T01:00:00.000Z
+date_end: 2022-04-29T02:00:54.961Z
 all_day: true
 event: Group Meeting
 event_url: https://art-of-turbulence.netlify.app/talk/numerical-investigation-of-iced-wing-flows/
