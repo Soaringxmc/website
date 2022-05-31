@@ -1,0 +1,18 @@
+---
+title: Numerical Investigation of the Unsteady Flow Past an Iced Multi-Element Airfoil
+publication_types:
+  - "2"
+authors:
+  - admin
+  - Yufei Zhang
+  - Feng Zhou
+publication: AIAA Journal
+publication_short: AIAA J.
+draft: false
+featured: false
+image:
+  filename: featured
+  focal_point: Smart
+  preview_only: false
+date: 2022-05-31T01:43:00.083Z
+---
