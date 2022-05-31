@@ -7,7 +7,7 @@ authors:
   - Maochao Xiao
   - Yufei Zhang
   - Feng Zhou
-doi: sss
+doi: ""
 publication_short: "*International Journal of Heat and Fluid Flow (under review)*"
 abstract: Icing on three-dimensional wings causes severe flow separation near
   stall. Standard improved delayed detached eddy simulation (IDDES) is unable to
