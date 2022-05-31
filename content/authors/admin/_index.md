@@ -1,5 +1,5 @@
 ---
-title: Maochao Xiao
+title: Maochao Xiao (肖茂超)
 role: Master Student
 avatar_filename: photo.jpg
 bio: My research interests include distributed robotics, mobile computing and
