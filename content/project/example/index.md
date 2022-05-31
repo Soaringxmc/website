@@ -20,6 +20,8 @@ image:
   filename: featured.png
 url_code: ""
 ---
+This project is to aply high-fidelity simulations to accrurately predict the aerodynamics around iced wings and to reveal the dominant flow mechnisms in iced wing flows.
+
 * Aerodynamic effects of horn, streamwise and ridge ice on (multi-element) airfoils via wall-modeled LES and AMD-IDDES
 * Extracted the dominant flow structures via proportional orthogonal decomposition (POD)
 * Analyzed the vortex motions in the ice-induced separated shear layers and acoustic resonance around the iced slat
