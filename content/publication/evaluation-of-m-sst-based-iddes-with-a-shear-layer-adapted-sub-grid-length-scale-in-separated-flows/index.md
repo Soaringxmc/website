@@ -7,7 +7,7 @@ authors:
   - Maochao Xiao
   - Yufei Zhang
   - Haixin Chen
-publication_short: '"7th Symposium on Hybrid RANS-LES Methods"'
+publication_short: "*7th Symposium on Hybrid RANS-LES Methods*"
 draft: false
 featured: false
 image:
