@@ -8,15 +8,7 @@ authors:
   - Feng Zhou
 publication: ""
 publication_short: "*AIAA Journal*"
-draft: false
-featured: false
-projects:
-  - les-simulation
-image:
-  filename: featured.png
-  focal_point: Smart
-  preview_only: false
-summary: Unsteady flow characteristics are investigated using wall-modeled
+abstract: Unsteady flow characteristics are investigated using wall-modeled
   large-eddy simulation for a 30P30N threeelement airfoil with streamwise ice
   and horn ice accreted at its slat leading edge, respectively. The ice
   accretions cause massive flow separation above the slat, which results in a
@@ -35,5 +27,14 @@ summary: Unsteady flow characteristics are investigated using wall-modeled
   the propagation of the ice-induced pressure fluctuations from above the slat
   because their most dominant frequencies identified by proper orthogonal
   decomposition are nearly equal to the resonant frequencies.
+draft: false
+featured: false
+projects:
+  - les-simulation
+image:
+  filename: featured.png
+  focal_point: Smart
+  preview_only: false
+summary: ""
 date: 2020-03-01T01:43:00.083Z
 ---
