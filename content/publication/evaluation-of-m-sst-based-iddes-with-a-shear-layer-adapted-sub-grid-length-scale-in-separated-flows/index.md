@@ -10,6 +10,8 @@ authors:
 publication_short: "*7th Symposium on Hybrid RANS-LES Methods*"
 draft: false
 featured: false
+projects:
+  - sla-iddes
 image:
   filename: featured
   focal_point: Smart
