@@ -1,9 +1,9 @@
 ---
-abstract: Improved Prediction of Flow Around Airfoil Accreted with Horn or Ridge Ice
+abstract: ""
 slides: ""
 url_pdf: ""
 publication_types:
-  - "2"
+  - "0"
 authors:
   - Maochao Xiao
   - Yufei Zhang
