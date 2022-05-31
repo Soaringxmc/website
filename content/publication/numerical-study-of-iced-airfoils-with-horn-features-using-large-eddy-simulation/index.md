@@ -12,7 +12,7 @@ featured: false
 projects:
   - large-eddy-simulation-of-iced-wing-flows
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2019-09-01T01:55:00.000Z
