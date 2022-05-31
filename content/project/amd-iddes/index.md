@@ -1,5 +1,5 @@
 ---
-title: amd-iddes
+title: " A New IDDES Approach with Anisotropic Minimum Dissipation SGS Modeling"
 date: 2022-05-31T13:14:39.487Z
 draft: false
 featured: false
