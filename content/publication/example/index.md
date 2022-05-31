@@ -29,7 +29,7 @@ doi: ""
 featured: false
 tags: []
 projects:
-  - example
+  - Large-Eddy-Simulation-of-Iced-Wing-Flows
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
