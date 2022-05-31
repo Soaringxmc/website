@@ -2,7 +2,7 @@
 title: Enhanced Prediction of Three-Dimensional Finite Iced Wing Separated Flow
   Near Stall
 publication_types:
-  - "2"
+  - "0"
 authors:
   - Maochao Xiao
   - Yufei Zhang
