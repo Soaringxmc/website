@@ -2,7 +2,7 @@
 title: Maochao Xiao (肖茂超)
 role: Master Student
 avatar_filename: photo.jpg
-bio: Maochao Xiao's research interests include turbulence modelling, high-fidelity turbulence simulation, separated turbulent flow and artificial intelligence.
+bio: Research interests include turbulence modelling, high-fidelity turbulence simulation, separated turbulent flow and artificial intelligence.
 interests:
   - Turbulence Modelling
   - High-Fidelity Turbulence Simulation
