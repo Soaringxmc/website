@@ -27,7 +27,7 @@ education:
     - institution: Tsinghua University
       course: MEng in Aeronautical and Astronautical Science and Technology
       year: 2019
-email: ""
+email: maochao_xiao@outlook.com
 superuser: true
 highlight_name: true
 ---
