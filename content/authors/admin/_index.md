@@ -1,6 +1,7 @@
 ---
 title: Maochao Xiao
 role: Master Student
+avatar_filename: 签证照片_美颜.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
