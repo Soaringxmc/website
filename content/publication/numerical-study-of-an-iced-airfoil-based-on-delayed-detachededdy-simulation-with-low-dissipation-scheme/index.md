@@ -10,6 +10,8 @@ authors:
 publication_short: "*9th AIAA Atmospheric and Space Environments Conference*"
 draft: false
 featured: false
+projects:
+  - iddes-simulation
 image:
   filename: featured
   focal_point: Smart
