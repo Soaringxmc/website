@@ -1,5 +1,5 @@
 ---
-title: Large-Eddy Simulation of Iced Wing Flows
+title: Hybrid RANS-LES Simulation of Iced Wing Flows
 date: 2016-06-01T09:59:23.709Z
 summary: High-fidelity simulations are conducted to accrurately predict the
   aerodynamics around iced wings and to reveal the dominant flow mechnisms in
