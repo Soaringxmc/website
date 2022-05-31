@@ -29,7 +29,7 @@ doi: ""
 featured: false
 tags: []
 projects:
-  - large-eddy-simulation-of-iced-wing-flows
+  - iddes-simulation
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
