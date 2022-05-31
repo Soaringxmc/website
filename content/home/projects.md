@@ -27,8 +27,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: RANS-LES Modelling
+      tag: RANS-LES Modelling
+    - name: Iced Wing Aerodynamics
+      tag: Iced Wing Aerodynamics
     - name: Other
       tag: Demo
 
