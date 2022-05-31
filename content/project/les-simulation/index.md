@@ -7,7 +7,7 @@ summary: High-fidelity simulations are conducted to accrurately predict the
 draft: false
 featured: false
 tags:
-  - Iced Wing Aerodynamics
+  - Numerical Simulation
 image:
   filename: featured.png
   focal_point: Smart
