@@ -6,6 +6,7 @@ publication_types:
 authors:
   - Maochao Xiao
   - Yufei Zhang
+publication_short: International Journal of Heat and Fluid Flow
 draft: false
 featured: false
 image:
