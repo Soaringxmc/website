@@ -1,5 +1,5 @@
 ---
-title: Numerical Study of an Iced Airfoil Based on Delayed DetachedEddy
+title: Numerical Study of an Iced Airfoil Based on Delayed Detached-Eddy
   Simulation with Low Dissipation Scheme
 publication_types:
   - "1"
