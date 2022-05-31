@@ -7,18 +7,14 @@ summary: High-fidelity simulations are conducted to accrurately predict the
   iced wing flows.
 url_video: ""
 title: Large-Eddy Simulation of Iced Wing Flows
-featured: true
+featured: false
 tags:
   - Iced Wing Aerodynamics
 external_link: ""
 url_slides: ""
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+links: []
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ""
   focal_point: Smart
   filename: featured.png
 url_code: ""
