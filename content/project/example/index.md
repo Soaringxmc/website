@@ -25,3 +25,7 @@ Aerodynamic effects of horn, streamwise and ridge ice on (multi-element) airfoil
 Extracted the dominant flow structures via proportional orthogonal decomposition (POD)
 
 Analyzed the vortex motions in the ice-induced separated shear layers and acoustic resonance around the iced slat
+
+Studied the aerodynamic effects of horn and streamwise ice on wings via AMD-IDDES
+
+Analyzed the effects of wing tip vortex and end-wall interactions
