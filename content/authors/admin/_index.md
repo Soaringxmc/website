@@ -5,9 +5,9 @@ avatar_filename: photo.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - CFD
   - Turbulence Modelling
   - High-Fidelity Turbulence Simulation
+  - Separated Turbulent Flow
   - Artificial Intelligence
 social:
   - icon: envelope
@@ -31,6 +31,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Maochao Xiao is a master student of aerospace science and technology at the AEROLab, Tsinghua University. His research interests include computational fluid dynamics, turbulence modelling and simulation, wall-bounded and seperated turbulence and artificial intelligence.
+Maochao Xiao is a master student of aerospace science and technology at the AEROLab, Tsinghua University. His research interests include computational fluid dynamics (CFD), turbulence modelling and simulation, separated turbulent flows and artificial intelligence.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
