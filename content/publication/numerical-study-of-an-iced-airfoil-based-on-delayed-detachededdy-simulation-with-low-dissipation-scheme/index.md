@@ -7,7 +7,7 @@ authors:
   - Maochao Xiao
   - Yufei Zhang
   - Haixin Chen
-publication_short: 9th AIAA Atmospheric and Space Environments Conference
+publication_short: "*9th AIAA Atmospheric and Space Environments Conference*"
 draft: false
 featured: false
 image:
