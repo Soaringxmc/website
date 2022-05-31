@@ -6,6 +6,7 @@ bio: My research interests include distributed robotics, mobile computing and
 interests:
   - CFD
   - Turbulence Modelling
+  - Artificial Intelligence
   - High-Fidelity Turbulence Simulation
 social:
   - icon: envelope
