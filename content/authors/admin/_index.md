@@ -26,7 +26,7 @@ education:
   courses:
     - institution: Tsinghua University
       course: MEng in Aeronautical and Astronautical Science and Technology
-      year: ""
+      year: 2019
 email: ""
 superuser: true
 highlight_name: true
