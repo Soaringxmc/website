@@ -1,5 +1,5 @@
 ---
-title: Enhanced Prediction of Three-dimensional Finite Iced Wing Separated Flow
+title: Enhanced Prediction of Three-Dimensional Finite Iced Wing Separated Flow
   Near Stall
 publication_types:
   - "2"
