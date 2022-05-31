@@ -1,7 +1,7 @@
 ---
 title: Application of Shear Layer Adapted Sub-grid Length Scale in SST-IDDES
 publication_types:
-  - "1"
+  - "0"
 authors:
   - Maochao Xiao
   - Yufei Zhang
