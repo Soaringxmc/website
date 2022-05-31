@@ -1,9 +1,7 @@
 ---
 slides: example
 url_pdf: ""
-summary: This project is to apply high-fidelity simulations to accrurately
-  predict the aerodynamics around iced wings and to reveal the dominant flow
-  mechnisms in iced wing flows.
+summary: ""
 url_video: ""
 date: 2016-04-01T00:00:00.000Z
 external_link: ""
