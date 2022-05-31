@@ -3,7 +3,7 @@ title: Numerical Investigation of the Unsteady Flow Past an Iced Multi-Element A
 publication_types:
   - "2"
 authors:
-  - admin
+  - Maochao Xiao
   - Yufei Zhang
   - Feng Zhou
 publication: ""
