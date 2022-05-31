@@ -32,4 +32,4 @@ highlight_name: true
 ---
 Maochao Xiao is a master student of aerospace science and technology at the AEROlab, Tsinghua University. His research interests include computational fluid dynamics (CFD), turbulence modelling and simulation, separated turbulent flows and artificial intelligence.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/02_CV_final.pdf" "newtab" >}}resumé{{< /staticref >}}.
