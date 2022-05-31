@@ -6,8 +6,8 @@ authors:
   - admin
   - Yufei Zhang
   - Feng Zhou
-publication: AIAA Journal
-publication_short: AIAA J.
+publication: ""
+publication_short: AIAA Journal
 draft: false
 featured: false
 image:
