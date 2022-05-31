@@ -26,7 +26,7 @@ url_source: ""
 url_video: ""
 title: Improved Prediction of Flow Around Airfoil Accreted with Horn or Ridge Ice
 doi: ""
-featured: true
+featured: false
 tags: []
 projects:
   - example
