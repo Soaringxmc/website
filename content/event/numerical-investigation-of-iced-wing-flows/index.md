@@ -2,7 +2,7 @@
 title: Numerical Investigation of Iced Wing Flows
 abstract: Summary
 location: AEROlab, Tsinghua University
-#date: 2022-04-29
+date: 2022-04-29
 #date_end: 2022-03-07
 all_day: false
 event: s
