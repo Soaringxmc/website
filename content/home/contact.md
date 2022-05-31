@@ -28,10 +28,10 @@ content:
     country: United States
     country_code: US
   contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: https://twitter.com/Twitter
+#    - icon: twitter
+#      icon_pack: fab
+#      name: DM Me
+#      link: https://twitter.com/Twitter
     - icon: video
       icon_pack: fas
       name: Zoom Me
