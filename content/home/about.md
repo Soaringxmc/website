@@ -14,5 +14,5 @@ design:
     image_position: center
     image_parallax: false
     text_color_light: false
-    color: https://art-of-turbulence.netlify.app/admin/#/collections/home
+    color: ""
 ---
