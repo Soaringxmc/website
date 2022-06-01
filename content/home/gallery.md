@@ -8,7 +8,3 @@ subtitle: null
 design:
   columns: "2"
 ---
-sssss
-
-![]() 
-{{< gallery album = assets/media/albums/ >}}
