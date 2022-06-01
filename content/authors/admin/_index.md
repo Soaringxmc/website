@@ -20,11 +20,11 @@ social:
     icon_pack: fab
     link: https://github.com/Soaringxmc
 organizations:
-  - name: Tsinghua University, supervisor Prof. Yufei Zhang
+  - name: Tsinghua University
     url: https://www.tsinghua.edu.cn
 education:
   courses:
-    - institution: Tsinghua University
+    - institution: Tsinghua University, supervisor Prof. Yufei Zhang
       course: MEng in Aeronautical and Astronautical Science and Technology
       year: 2019
 email: maochao_xiao@outlook.com
