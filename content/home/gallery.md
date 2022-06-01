@@ -11,4 +11,4 @@ design:
 sssss
 
 ![]() 
-{{< gallery album="assets/media/albums/" >}}
+{{< gallery album = assets/media/albums/ >}}
