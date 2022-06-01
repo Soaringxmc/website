@@ -3,7 +3,7 @@ widget: pages
 widget_id: presentations
 headless: true
 weight: 70
-title: Presentationas
+title: Presentations
 subtitle: null
 content:
   page_type: event
