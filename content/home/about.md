@@ -12,7 +12,7 @@ design:
     image_darken: 1
     image_size: cover
     image_position: center
-    image_parallax: true
+    image_parallax: false
     text_color_light: true
     color: https://art-of-turbulence.netlify.app/admin/#/collections/home
 ---
