@@ -1,12 +1,10 @@
 ---
 widget: blank
+widget_id: ss
 headless: true
-
-# ... Put Your Section Options Here (title etc.) ...
-title: My New Section
-subtitle:
-weight: 10  # section position on page
+weight: 10
+title: Gallery
+subtitle: null
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: "1"
 ---
