@@ -9,7 +9,7 @@ author: admin
 design:
   background:
     image: icon.png
-    image_darken: 1
+    image_darken: 0
     image_size: cover
     image_position: center
     image_parallax: true
