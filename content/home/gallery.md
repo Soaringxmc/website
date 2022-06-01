@@ -1,5 +1,5 @@
 ---
-widget: blank
+widget: gallery
 widget_id: "8"
 headless: true
 weight: 100
