@@ -1,6 +1,6 @@
 ---
 widget: portfolio
-widget_id: Projects
+widget_id: Research
 headless: true
 weight: 65
 title: Research
