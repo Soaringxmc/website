@@ -2,7 +2,8 @@
 title: Maochao Xiao (肖茂超)
 role: Master Student
 avatar_filename: photo.jpg
-bio: Research interests include turbulence modelling, high-fidelity turbulence simulation, separated turbulent flow and artificial intelligence.
+bio: Research interests include turbulence modelling, high-fidelity turbulence
+  simulation, separated turbulent flow and artificial intelligence.
 interests:
   - Turbulence Modelling
   - High-Fidelity Turbulence Simulation
@@ -19,7 +20,7 @@ social:
     icon_pack: fab
     link: https://github.com/Soaringxmc
 organizations:
-  - name: Tsinghua University
+  - name: Tsinghua University, supervisor Prof. Yufei Zhang
     url: https://www.tsinghua.edu.cn
 education:
   courses:
