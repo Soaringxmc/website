@@ -8,6 +8,8 @@ subtitle: null
 design:
   columns: "2"
 ---
-ssssssss
+<!--StartFragment-->
 
-sssss
+{{< gallery album="<ALBUM-FOLDER>" >}}
+
+<!--EndFragment-->
