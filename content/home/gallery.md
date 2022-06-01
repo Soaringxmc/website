@@ -1,6 +1,6 @@
 ---
 widget: blank
-widget_id: ss
+widget_id: "8"
 headless: true
 weight: 10
 title: Gallery
