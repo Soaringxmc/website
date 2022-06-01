@@ -10,5 +10,5 @@ design:
 ---
 sssss
 
-![]()
+![]() 
 {{< gallery album="assets/media/albums/" >}}
