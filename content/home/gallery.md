@@ -8,3 +8,4 @@ subtitle: null
 design:
   columns: "2"
 ---
+{{< gallery album="<ALBUM-FOLDER>" >}}
