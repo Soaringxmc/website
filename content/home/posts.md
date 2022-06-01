@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: Posters
+widget_id: News
 headless: true
 weight: 60
 title: News
