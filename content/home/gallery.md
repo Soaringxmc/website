@@ -8,4 +8,3 @@ subtitle: null
 design:
   columns: "2"
 ---
-{{< gallery album="assets/media/albums/" >}}
