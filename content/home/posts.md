@@ -3,7 +3,7 @@ widget: pages
 widget_id: Posters
 headless: true
 weight: 60
-title: Posters
+title: News
 subtitle: null
 content:
   filters:
