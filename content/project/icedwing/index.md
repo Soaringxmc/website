@@ -1,5 +1,5 @@
 ---
-title: IcedWing
+title: High-Fidelity Simulation of Iced Wing Flows
 date: 2022-06-02T06:37:20.159Z
 draft: false
 featured: false
